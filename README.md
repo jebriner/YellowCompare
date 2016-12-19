@@ -24,7 +24,7 @@ The comparison of the actual male H. erato eye vs. the hypothetical eye tests th
 
 **Process:** 
 
-Do pairwise discriminability between different visual models 
+Using SPEC, calculate the pairwise discriminability for the pigments between different visual models.
 
 1. female *H. erato* **(UV1, UV2, B, L)**
 2. male *H. erato* **(UV2, B, L)**
@@ -33,7 +33,9 @@ Do pairwise discriminability between different visual models
 4.  *H. ismenius* (sexually monomorphic) **(UV1, B, L)**
 
 
-Run data for *H. melpomene* eye (using SPEC to process Kyle's smoothed sensitivity curves from electrophysiology experiments). Can use M or F *H. melpomene* for this, since they're visually monomorphic. Reveals how good we can expect *H. melpomene* to be at discriminating *Eueides* yellow from *Heliconius* yellow.
+The spreadsheet of the reflectance of different yellow pigments is used in SPEC 2 in place of the narrow-band interference filters. 
+
+Run data for *H. melpomene* eye (using SPEC to process Kyle's smoothed sensitivity curves from electrophysiology experiments). Can use M or F *H. melpomene* for this, since they're visually monomorphic. Reveals how well we can expect *H. melpomene* to be at discriminating *Eueides* yellow from *Heliconius* yellow.
 
 
 **Expectations:** 
