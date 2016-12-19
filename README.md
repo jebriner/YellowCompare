@@ -26,19 +26,19 @@ The comparison of the actual male H. erato eye vs. the hypothetical eye tests th
 
 Do pairwise discriminability between different visual models 
 
-1. female *H. erato* (UV1, UV2, B, L)
-2. male *H. erato* (UV2, B, L)
-3. a hypothetical, ancestral male *H. erato* eye (UV1, B, L): has UV1 [like a female] rather than UV2)
-4.  *H. melpomene* (sexually monomorphic)
-4.  *H. ismenius* (sexually monomorphic)
+1. female *H. erato* **(UV1, UV2, B, L)**
+2. male *H. erato* **(UV2, B, L)**
+3. a hypothetical, ancestral male *H. erato* eye **(UV1, B, L)**: has UV1 [like a female] rather than UV2)
+4.  *H. melpomene* (sexually monomorphic) **(UV1, B, L)**
+4.  *H. ismenius* (sexually monomorphic) **(UV1, B, L)**
 
 
-Run data for H. melpomene eye (using Kyle's smoothed sensitivity curves from electrophysiology experiments). How good is H. mel at discriminating Eueides yellow from Heliconius yellow? (Can use M or F H. mel for this, since they're visually monomorphic.)
+Run data for *H. melpomene* eye (using SPEC to process Kyle's smoothed sensitivity curves from electrophysiology experiments). Can use M or F *H. melpomene* for this, since they're visually monomorphic. Reveals how good we can expect *H. melpomene* to be at discriminating *Eueides* yellow from *Heliconius* yellow.
 
 
 **Expectations:** 
 
-Adriana has previously calculated that 73% of pairwise comparisons are > 1 JND for the male *H. erato* visual system, while only 45% are for the hypothetical male *H. erato*.
+Adriana has previously calculated that 73% of pairwise pigment comparisons are > 1 JND for the male *H. erato* visual system, while only 45% are for the hypothetical male *H. erato*.
 
 
 
