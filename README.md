@@ -34,3 +34,11 @@ Do pairwise discriminability between different visual models
 
 
 Run data for H. melpomene eye (using Kyle's smoothed sensitivity curves from electrophysiology experiments). How good is H. mel at discriminating Eueides yellow from Heliconius yellow? (Can use M or F H. mel for this, since they're visually monomorphic.)
+
+
+**Expectations:** 
+
+Adriana has previously calculated that 73% of pairwise comparisons are > 1 JND for the male *H. erato* visual system, while only 45% are for the hypothetical male *H. erato*.
+
+
+
