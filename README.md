@@ -38,7 +38,7 @@ Run data for *H. melpomene* eye (using SPEC to process Kyle's smoothed sensitivi
 
 **Expectations:** 
 
-Adriana has previously calculated that 73% of pairwise pigment comparisons are > 1 JND for the male *H. erato* visual system, while only 45% are for the hypothetical male *H. erato*.
+Adriana has previously calculated that 73% of pairwise pigment comparisons are > 1 JND for the male *H. erato* visual system, while only 45% are > 1 JND for the hypothetical male *H. erato* eye.
 
 
 
